@@ -28,6 +28,10 @@ nav {
   color: #bbc3cc;
 }
 
+.nav-button:hover {
+  color: #4563f3;
+}
+
 .active {
   color: #4563f3;
 }
@@ -36,7 +40,7 @@ nav {
   background-color: #4563f3;
   width: 90%;
   max-width: 100px;
-  height: 4px;
+  height: 2px;
   z-index: 9999;
   display: inline-block;
   border-radius: 30px;

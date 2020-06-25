@@ -40,4 +40,16 @@ li {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  background-color: black;
+}
+
+.home-background > h1,
+.home-background > h3 {
+  color: white;
+}
+
+.home-background > .react-logo {
+  align-content: center;
+  margin-top: 40vh;
+  margin-bottom: 40vh;
 }

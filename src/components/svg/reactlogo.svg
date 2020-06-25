@@ -1,0 +1,34 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="reactlogo 1">
+<g id="smallball">
+<path id="Vector" d="M148.476 330C154.258 330 158.952 334.694 158.952 340.476C158.952 346.258 154.258 350.952 148.476 350.952C142.694 350.952 138 346.258 138 340.476C138 334.694 142.694 330 148.476 330Z" fill="#2FF0D9"/>
+</g>
+<g id="lightball">
+<g id="Vector_2" filter="url(#filter0_f)">
+<path d="M400.47 339.877C433.584 339.877 460.47 366.763 460.47 399.877C460.47 432.991 433.584 459.877 400.47 459.877C367.356 459.877 340.47 432.991 340.47 399.877C340.47 366.763 367.356 339.877 400.47 339.877Z" fill="url(#paint0_radial)" fill-opacity="0.78"/>
+</g>
+<path id="Vector_3" d="M400 350C427.595 350 450 372.405 450 400C450 427.595 427.595 450 400 450C372.405 450 350 427.595 350 400C350 372.405 372.405 350 400 350Z" fill="#EEF7FF"/>
+</g>
+<g id="circle3">
+<path id="Vector_4" d="M729.726 424.017C729.726 483.631 581.976 532.033 400 532.033C218.024 532.033 70.274 483.631 70.274 424.017C70.274 364.402 218.024 316 400 316C581.976 316 729.726 364.402 729.726 424.017Z" stroke="#14F1D9" stroke-width="2.92953"/>
+</g>
+<g id="circle2">
+<path id="Vector_5" d="M70.6189 411.983C70.6189 352.369 218.369 303.967 400.345 303.967C582.321 303.967 730.071 352.369 730.071 411.983C730.071 471.598 582.321 520 400.345 520C218.369 520 70.6189 471.598 70.6189 411.983Z" stroke="#14F1D9" stroke-width="2.92953"/>
+</g>
+<g id="circle1">
+<path id="Vector_6" d="M70.274 396.983C70.274 337.369 218.024 288.967 400 288.967C581.976 288.967 729.726 337.369 729.726 396.983C729.726 456.598 581.976 505 400 505C218.024 505 70.274 456.598 70.274 396.983Z" stroke="#14F1D9" stroke-width="2.92953"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f" x="336.47" y="335.877" width="128" height="128" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur"/>
+</filter>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400.47 399.877) rotate(90) scale(60)">
+<stop offset="0.0001" stop-color="white"/>
+<stop offset="0.9375" stop-color="#2FB4C6" stop-opacity="0.26"/>
+<stop offset="1" stop-color="#CECDFF" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

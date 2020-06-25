@@ -10,9 +10,6 @@ const Menu = () => (
       <Link to="/nav">
         <li>Nav</li>
       </Link>
-      <Link to="/ham">
-        <li>Ham</li>
-      </Link>
     </ul>
   </div>
 );
